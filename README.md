@@ -1,6 +1,4 @@
-# AldsDeveloper-Docker-Laravel
-
-Laravel in Dcoker Compose
+AldsDeveloper-Docker-Laravel
 
 # Setup
 
