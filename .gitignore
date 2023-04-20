@@ -1,4 +1,5 @@
-.env
+.git
+# .env
 mysql
 logs
 *.DS_Store
