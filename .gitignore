@@ -1,0 +1,4 @@
+.env
+mysql
+logs
+*.DS_Store
