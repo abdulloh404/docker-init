@@ -1,4 +1,5 @@
-# Laravel-Docker
+# AldsDeveloper-Docker-Laravel
+
 Laravel in Dcoker Compose
 
 # Setup
@@ -41,4 +42,3 @@ docker-compose run artisan key:generate
 
 # Phpmyadmin 
 http://localhost:81
-# AldsDeveloper-Docker-Laravel
